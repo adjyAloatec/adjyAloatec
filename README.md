@@ -1,3 +1,3 @@
 # Adjy
-## Web dev at @Aloatec 
+## Web dev at [Aloatec](https://github.com/Aloatec)
 
