@@ -1,3 +1,3 @@
-#Adjy
-##Web dev at @Aloatec 
+# Adjy
+## Web dev at @Aloatec 
 
